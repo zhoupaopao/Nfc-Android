@@ -17,7 +17,7 @@ import com.ricky.nfc.activity.WriteMUActivity;
 import com.ricky.nfc.activity.WriteTextActivity;
 import com.ricky.nfc.activity.WriteUriActivity;
 import com.ricky.nfc.base.BaseNfcActivity;
-
+//主页面
 public class MainActivity extends BaseNfcActivity {
     private TextView ifo_NFC;
     private static final String[] strs = new String[]{
